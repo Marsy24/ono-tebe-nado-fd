@@ -1,19 +1,4 @@
 :root {
-    --offset: 185px;
-
-    --container-padding: 0 24px;
-
-    --header-padding: 94.5px 50px 94.5px 50px;
-    --header-font-size: 18px;
-    --header-link-width: 148px;
-    --header-link-height: 105px;
-
-    --address-line-height: 24.3px;
-
-    --link-effect-top: -2px;
-    --link-effect-bottom: -2px;
-    --link-effect-left: -2px;
-    --link-effect-right: -2px;
     --link-effect-border-radius: 5px;
     --link-effect-bg-color: black;
     --link-effect-text-color: white;
@@ -34,24 +19,13 @@
     --third-title-color: white;
     --third-title-line-height: 120%;
 
-    --hero-description-font-size: 22px;
-
     --lots-list-link-scale: scale(1.02);
 
-    --lots-card-padding: 48px 40px;
-    --lots-card-title-margin-bottom: 33px;
-    --lots-card-descr-font-size: 20px;
-    --lots-card-descr-line-height: 120%;
     --lots-card-descr-color: white;
 
-    --about-descr-font-size: 20px;
-    --about-descr-line-height: 24px;
     --about-descr-color: black;
 
     --footer-font-size: 18px;
 
     --socials-list-gap: 48px;
-    --socials-link-width: 48px;
-    --socials-link-height: 48px;
-
 }
